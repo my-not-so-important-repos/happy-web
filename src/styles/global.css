@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0px;
+}
+
+body {
+  color: #fff;
+  background: #ebf2f5;
+}
+
+body, input, button, textarea {
+  /* font-family: nunito 600, 700, 800; */
+  font: 600 16px Nunito, sans-serif;
+}
